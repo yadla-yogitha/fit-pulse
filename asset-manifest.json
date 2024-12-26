@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fit-pulse/static/css/main.310ad938.css",
+    "main.js": "/fit-pulse/static/js/main.351bf84b.js",
+    "static/js/787.b04cd8e5.chunk.js": "/fit-pulse/static/js/787.b04cd8e5.chunk.js",
+    "index.html": "/fit-pulse/index.html",
+    "main.310ad938.css.map": "/fit-pulse/static/css/main.310ad938.css.map",
+    "main.351bf84b.js.map": "/fit-pulse/static/js/main.351bf84b.js.map",
+    "787.b04cd8e5.chunk.js.map": "/fit-pulse/static/js/787.b04cd8e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.310ad938.css",
+    "static/js/main.351bf84b.js"
+  ]
+}
